@@ -1,0 +1,45 @@
+body
+{
+	background-color: #f3f3f3;
+}
+
+.navbar-header
+{
+	background:#222;
+	color:#FFF;
+}
+
+.navbar-collapse
+{
+	background:#222;
+	color:#FFF;}
+
+.navbar-right
+{
+	color:#FFF;
+}
+
+.icon-bar
+{
+	background:#FFF;
+}
+
+.list-menu-header
+{
+	padding:15px;
+}
+
+.form-control
+{
+	width:80%;
+}
+
+.main
+{
+	background:#FFF;
+}
+
+.error
+{
+	color:#F00;
+}

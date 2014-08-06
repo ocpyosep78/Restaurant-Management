@@ -1,0 +1,105 @@
+body
+{
+	background-color: #f3f3f3;
+}
+
+.navbar-right
+{
+	color:#FFF;
+}
+
+.main
+{
+	background:#FFF;
+	width:940px;
+	margin:0 auto;
+	padding:10px;;
+	border:1px solid #CCC;
+	display:block;
+	overflow:hidden;
+}
+
+.main-left
+{
+	width:50%;
+	float:left;
+}
+
+.main-right
+{
+	width:49%;
+	float:right;
+	background:#E4E4E4;
+	padding:10px;
+}
+
+.form-control
+{
+	width:30%;
+}
+
+table .form-control
+{
+	width:80%;
+}
+
+.error
+{
+	color:#F00;
+}
+
+#analytic-box
+{
+	width:100%;
+	clear:both;
+	display:block;
+	overflow:hidden;
+}
+
+.total-sell-today
+{
+	width:50%;
+	float:left;
+}
+
+.total-sell
+{
+	float:right;
+	width:50%;
+}
+
+.total-category
+{
+	float:left;
+	width:50%;
+}
+
+.total-menu
+{
+	float:right;
+	width:50%;
+}
+
+.total-manager
+{
+	float:left;
+	width:50%;
+}
+
+.total-worker
+{
+	float:right;
+	width:50%;
+}
+
+.total-top-category
+{
+	float:left;
+	width:50%;
+}
+
+.total-top-menu
+{
+	float:right;
+	width:50%;
+}
