@@ -1,3 +1,2 @@
-Neo-Cafe
-========
-โปรแกรมสำหรับจัดการร้าน Neo Cafe 
+Restaurant Management Web Application
+ 
